@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm gabrieleSosa</h1>
 <h3 align="center">A passionate full stack developer from Italy</h3>
 
-![coder gif](https://github.com/gabrieleSosa/coding.gif)
+![coder gif]([https://github.com/gabrieleSosa/coding.gif](https://github.com/gabrieleSosa/gabrieleSosa/blob/main/coding.gif))
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielesosa&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielesosa" /> </p>
 
