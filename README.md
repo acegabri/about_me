@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/gugrigugra/](https://github.com/gugrigugra/)
 
-- 📫 How to reach me **on discord**
+- 📫 How to reach me **@gabriele on telegram**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
