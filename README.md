@@ -7,6 +7,12 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 🌱 Always learning **Everything**
+
+- 👨‍💻 All of my projects are available at [https://github.com/gugrigugra/](https://github.com/gugrigugra/)
+
+- 📫 How to reach me **on discord**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/gugriggì" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="gugriggì" height="30" width="40" /></a>
